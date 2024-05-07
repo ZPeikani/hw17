@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "http://localhost:5173/src/assets/rolls-royce.jpg",
+      "name": "Rolls-Royce Phantom",
+      "price": 200,
+      "dec": "This is a short description of Rolls-Royce Phantom"
+    },
+    {
+      "id": 2,
+      "img": "http://localhost:5173/src/assets/benz.webp",
+      "name": "Benz",
+      "price": 100,
+      "dec": "This is a short description of Benz"
+    },
+    {
+      "id": 3,
+      "img": "http://localhost:5173/src/assets/hyundai.webp",
+      "name": "Hyundai",
+      "price": 200,
+      "dec": "This is a short description of Hyundai"
+    },
+    {
+      "id": 4,
+      "img": "http://localhost:5173/src/assets/Chevrolet-Corvette.webp",
+      "name": "2020 Chevrolet Corvette",
+      "price": 100,
+      "dec": "This is a short description of 2020 Chevrolet Corvette"
+    }
+  ]
+}
